@@ -5,5 +5,5 @@ permalink: /categories/ctf/
 author_profile: true
 taxonomy: ctf
 sidebar:
-  nav: "ctf"
+  nav: "categories"
 ---
